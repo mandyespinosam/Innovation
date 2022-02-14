@@ -1,2 +1,0 @@
-# Innovation
-Innovation districts analysis
